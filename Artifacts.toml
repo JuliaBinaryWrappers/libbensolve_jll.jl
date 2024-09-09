@@ -1,0 +1,143 @@
+[[libbensolve]]
+arch = "aarch64"
+git-tree-sha1 = "ddabcc96811ffc3164fca0f9b42b2196afcfc3d3"
+os = "macos"
+
+    [[libbensolve.download]]
+    sha256 = "47f8e14f0d22861e0bf6fafebd1c1eeb6400f4cc56336eb56dc8a313b38c7f71"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.aarch64-apple-darwin.tar.gz"
+[[libbensolve]]
+arch = "aarch64"
+git-tree-sha1 = "85e05d1fbddd972bf42208a632e91bedcce95beb"
+libc = "glibc"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "b55d71eb22c408f3b498579ddc1121ed88ca120e11ff65a49fd1220a41e9fe79"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.aarch64-linux-gnu.tar.gz"
+[[libbensolve]]
+arch = "aarch64"
+git-tree-sha1 = "afee03f85bdfada0d5c57c078dcd292a52314120"
+libc = "musl"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "7d8f36028820a57310d15587caeffd86d48fe8a961c0d22e1ee1ea0b843f1c0f"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.aarch64-linux-musl.tar.gz"
+[[libbensolve]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "20fbf2cffa80793d091add90585b0284bcc7eb2f"
+libc = "glibc"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "3d8b7deee61ab0aecc50df6afa8f07109e622c9e052c60d4f79775dddc4f6ea2"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[libbensolve]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3f3f758ee7a20395bd90be6883be5f52fb4f99b2"
+libc = "musl"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "eb58e6348a8a254ca6b9e0d5693c034225859d41894be3b0bdca761f9dd7f711"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.armv6l-linux-musleabihf.tar.gz"
+[[libbensolve]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f352609b94a614df2266b407edbcd4a640ac589c"
+libc = "glibc"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "d7a289356ce2f04ae832bb0366387fc4b8b252f6d27edecdbe410641eabfe34a"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[libbensolve]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b6a62c2e829b896095cf412a4f1f60667024daa2"
+libc = "musl"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "2bc51c825a2c1e35305a6d27e3c5ca6b4f662324719ec9e1d8957a820de59541"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.armv7l-linux-musleabihf.tar.gz"
+[[libbensolve]]
+arch = "i686"
+git-tree-sha1 = "934ae9f81287ebf268630c701f2259a4f2026329"
+libc = "glibc"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "7469a037150889b9dd4c627425376ba10ac817a975419a624369c317f6758b2f"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.i686-linux-gnu.tar.gz"
+[[libbensolve]]
+arch = "i686"
+git-tree-sha1 = "dfc51c1e1f3caf0300a162bb13df0e479ca9301a"
+libc = "musl"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "6cc421f313058d8e1bfd5112e9dafea321c2ff5bb6226fbce990643052a88d23"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.i686-linux-musl.tar.gz"
+[[libbensolve]]
+arch = "i686"
+git-tree-sha1 = "d3068efa84c174147a4e7d42e14d47030ef62b9a"
+os = "windows"
+
+    [[libbensolve.download]]
+    sha256 = "93557ba65fa9b97401f8f75ba664a53310f8bb98cfd1bb2b2335db100871858f"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.i686-w64-mingw32.tar.gz"
+[[libbensolve]]
+arch = "powerpc64le"
+git-tree-sha1 = "01ffd07afee45e5eff6c9066a1bc10ae27f3cfde"
+libc = "glibc"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "924a09e712177370a6d61ac21ad7c15827050a898453bbbb238ff2bf629c947d"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.powerpc64le-linux-gnu.tar.gz"
+[[libbensolve]]
+arch = "x86_64"
+git-tree-sha1 = "5d59552f9782639c76f28176341bbef9be3cc08d"
+os = "macos"
+
+    [[libbensolve.download]]
+    sha256 = "14c468c01784e7f628d79da279d13db3f115854cbe12565add666bd2cbd3f979"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.x86_64-apple-darwin.tar.gz"
+[[libbensolve]]
+arch = "x86_64"
+git-tree-sha1 = "753e38ce65f9a08b83e4d5f2cfc6e53d5fefa1bf"
+libc = "glibc"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "740368a343c92770fc4dc3298c2ebc04dc3dd9800e37eb1b162043480a89d5cc"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.x86_64-linux-gnu.tar.gz"
+[[libbensolve]]
+arch = "x86_64"
+git-tree-sha1 = "d4743c29e0162f89ccf5dbc212507437d20c8612"
+libc = "musl"
+os = "linux"
+
+    [[libbensolve.download]]
+    sha256 = "6dfde0fb1c06ef2c54dbc75b90b68169495e468db529c0a267fb423fa0f37041"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.x86_64-linux-musl.tar.gz"
+[[libbensolve]]
+arch = "x86_64"
+git-tree-sha1 = "7da0254cce52f332dca594a49c91b169001bcccf"
+os = "freebsd"
+
+    [[libbensolve.download]]
+    sha256 = "5be441fdfa98e1a1b437a72d3f9e9c0d39db66619253d74feb77e74a5f0afcf8"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.x86_64-unknown-freebsd.tar.gz"
+[[libbensolve]]
+arch = "x86_64"
+git-tree-sha1 = "b54a1dff74d77962abaff02a6e40b11f805e4e40"
+os = "windows"
+
+    [[libbensolve.download]]
+    sha256 = "08825521a98712f555b4abe239d380b822b8f741ecb439730ef38c30d1cd00f8"
+    url = "https://github.com/JuliaBinaryWrappers/libbensolve_jll.jl/releases/download/libbensolve-v2.1.0+0/libbensolve.v2.1.0.x86_64-w64-mingw32.tar.gz"
